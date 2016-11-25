@@ -12,5 +12,3 @@
 
 
 
- //Route.post('/links', 'LinksController.create').middleware('auth')
- // data: { title: 'cool search engine', url: 'http://google.com' }
